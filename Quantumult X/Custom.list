@@ -1,3 +1,5 @@
 # Custom
 DOMAIN-SUFFIX,rarbgprx.org,Proxy
 DOMAIN-SUFFIX,t66y.com,Proxy
+DOMAIN-SUFFIX,checkip.synology.com,DIRECT
+DOMAIN-SUFFIX,ddns.synology.com,DIRECT
