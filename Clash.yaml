@@ -5,6 +5,7 @@ Rule:
 - DOMAIN-SUFFIX,t66y.com,Proxy
 - DOMAIN-SUFFIX,checkip.synology.com,DIRECT
 - DOMAIN-SUFFIX,ddns.synology.com,DIRECT
+- DOMAIN,api.ipify.org,Proxy
 
 # Unbreak
 # > Google
