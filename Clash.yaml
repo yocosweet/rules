@@ -1075,13 +1075,6 @@ Rule:
 - DOMAIN,www-cdn.icloud.com.akadns.net,DIRECT
 - IP-CIDR,17.0.0.0/8,DIRECT
 
-# Local Area Network
-- IP-CIDR,192.168.0.0/16,DIRECT
-- IP-CIDR,10.0.0.0/8,DIRECT
-- IP-CIDR,172.16.0.0/12,DIRECT
-- IP-CIDR,127.0.0.0/8,DIRECT
-- IP-CIDR,100.64.0.0/10,DIRECT
-
 # (Extra IP-CIRD)
 # > Google
 - IP-CIDR,35.190.247.0/24,Proxy
@@ -1164,6 +1157,13 @@ Rule:
 - IP-CIDR,109.239.140.0/24,Proxy,no-resolve
 - IP-CIDR,149.154.160.0/20,Proxy,no-resolve
 - IP-CIDR,149.154.164.0/22,Proxy,no-resolve
+
+# Local Area Network
+- IP-CIDR,192.168.0.0/16,DIRECT
+- IP-CIDR,10.0.0.0/8,DIRECT
+- IP-CIDR,172.16.0.0/12,DIRECT
+- IP-CIDR,127.0.0.0/8,DIRECT
+- IP-CIDR,100.64.0.0/10,DIRECT
 
 # GeoIP China
 - GEOIP,CN,DIRECT
