@@ -282,7 +282,7 @@ Rule:
 - DOMAIN-SUFFIX,avg.com,Proxy
 - DOMAIN-SUFFIX,avgle.com,Proxy
 - DOMAIN-SUFFIX,badoo.com,Proxy
-- DOMAIN-SUFFIX,bandwagonhost.com,Proxy
+- DOMAIN-SUFFIX,bandwagonDOMAIN.com,Proxy
 - DOMAIN-SUFFIX,bbc.com,Proxy
 - DOMAIN-SUFFIX,behance.net,Proxy
 - DOMAIN-SUFFIX,bibox.com,Proxy
@@ -718,7 +718,7 @@ Rule:
 - DOMAIN-SUFFIX,free.fr,Proxy
 - DOMAIN-SUFFIX,gigacircle.com,Proxy
 - DOMAIN-SUFFIX,hk-pub.com,Proxy
-- DOMAIN-SUFFIX,hosting.co.uk,Proxy
+- DOMAIN-SUFFIX,DOMAINing.co.uk,Proxy
 - DOMAIN-SUFFIX,hwcdn.net,Proxy
 - DOMAIN-SUFFIX,ifixit.com,Proxy
 - DOMAIN-SUFFIX,iphone4hongkong.com,Proxy
@@ -998,7 +998,7 @@ Rule:
 - DOMAIN-SUFFIX,godic.net,DIRECT
 - DOMAIN-SUFFIX,hicloud.com,DIRECT
 - DOMAIN-SUFFIX,hongxiu.com,DIRECT
-- DOMAIN-SUFFIX,hostbuf.com,DIRECT
+- DOMAIN-SUFFIX,DOMAINbuf.com,DIRECT
 - DOMAIN-SUFFIX,huxiucdn.com,DIRECT
 - DOMAIN-SUFFIX,huya.com,DIRECT
 - DOMAIN-SUFFIX,infinitynewtab.com,DIRECT
