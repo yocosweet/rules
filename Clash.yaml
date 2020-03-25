@@ -53,6 +53,17 @@ Rule:
   - DOMAIN-KEYWORD,paypal,PayPal
   - DOMAIN-SUFFIX,paypal.com,PayPal
 
+# > NetEase
+  - USER-AGENT,NeteaseMusic*,UnblockNeteaseMusic
+  - USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,UnblockNeteaseMusic
+  - DOMAIN-SUFFIX,163.com,UnblockNeteaseMusic
+  - DOMAIN-SUFFIX,126.net,UnblockNeteaseMusic
+  - DOMAIN-SUFFIX,127.net,UnblockNeteaseMusic
+  - DOMAIN-SUFFIX,163yun.com,UnblockNeteaseMusic
+  - DOMAIN-SUFFIX,lofter.com,UnblockNeteaseMusic
+  - DOMAIN-SUFFIX,netease.com,UnblockNeteaseMusic
+  - DOMAIN-SUFFIX,ydstatic.com,UnblockNeteaseMusic    
+
 # 国内网站
   - DOMAIN-SUFFIX,cn,DIRECT
   - DOMAIN-KEYWORD,-cn,DIRECT
