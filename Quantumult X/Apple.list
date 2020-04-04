@@ -1,0 +1,22 @@
+# > Apple
+DOMAIN,ocsp.apple.com,Apple
+DOMAIN-SUFFIX,digicert.com,Apple
+DOMAIN-SUFFIX,entrust.net,Apple
+DOMAIN,ocsp.verisign.net,Apple
+USER-AGENT,AppStore*,Apple
+DOMAIN-SUFFIX,mzstatic.com,Apple
+DOMAIN-SUFFIX,apps.apple.com,Apple
+DOMAIN-SUFFIX,itunes.apple.com,Apple
+DOMAIN-SUFFIX,blobstore.apple.com,Apple
+DOMAIN-SUFFIX,music.apple.com,Apple
+USER-AGENT,cloudd*,Apple
+USER-AGENT,com.apple.geod*,Apple
+USER-AGENT,com.apple.Maps,Apple
+DOMAIN-SUFFIX,icloud.com,Apple
+DOMAIN-SUFFIX,icloud-content.com,Apple
+DOMAIN-SUFFIX,me.com,Apple
+DOMAIN-SUFFIX,akadns.net,Apple
+DOMAIN-SUFFIX,aaplimg.com,Apple
+DOMAIN-SUFFIX,cdn-apple.com,Apple
+DOMAIN-SUFFIX,apple.com,Apple
+DOMAIN-SUFFIX,apple-cloudkit.com,Apple
