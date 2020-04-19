@@ -448,6 +448,12 @@ HOST-SUFFIX,ying.com,Proxy
 HOST-SUFFIX,yoyo.org,Proxy
 HOST-SUFFIX,ytimg.com,Proxy
 
+# PayPal
+USER-AGENT,PayPal*,Proxy
+DOMAIN-KEYWORD,paypal,Proxy
+DOMAIN-SUFFIX,paypal.com,Proxy
+DOMAIN-SUFFIX,paypalobjects.com,Proxy
+
 # Telegram
 ## 域名
 HOST-SUFFIX,telegra.ph,Proxy
