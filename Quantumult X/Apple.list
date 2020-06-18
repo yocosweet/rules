@@ -1,5 +1,5 @@
 # 🍎Apple
-DOMAIN,ocsp.🍎Apple.com,🍎Apple
+DOMAIN,ocsp.Apple.com,🍎Apple
 DOMAIN-SUFFIX,digicert.com,🍎Apple
 DOMAIN-SUFFIX,entrust.net,🍎Apple
 DOMAIN,ocsp.verisign.net,🍎Apple
@@ -10,13 +10,13 @@ DOMAIN-SUFFIX,itunes.🍎Apple.com,🍎Apple
 DOMAIN-SUFFIX,blobstore.🍎Apple.com,🍎Apple
 DOMAIN-SUFFIX,music.🍎Apple.com,🍎Apple
 USER-AGENT,cloudd*,🍎Apple
-USER-AGENT,com.🍎Apple.geod*,🍎Apple
-USER-AGENT,com.🍎Apple.Maps,🍎Apple
+USER-AGENT,com.Apple.geod*,🍎Apple
+USER-AGENT,com.Apple.Maps,🍎Apple
 DOMAIN-SUFFIX,icloud.com,🍎Apple
 DOMAIN-SUFFIX,icloud-content.com,🍎Apple
 DOMAIN-SUFFIX,me.com,🍎Apple
 DOMAIN-SUFFIX,akadns.net,🍎Apple
 DOMAIN-SUFFIX,aaplimg.com,🍎Apple
-DOMAIN-SUFFIX,cdn-🍎Apple.com,🍎Apple
-DOMAIN-SUFFIX,🍎Apple.com,🍎Apple
-DOMAIN-SUFFIX,🍎Apple-cloudkit.com,🍎Apple
+DOMAIN-SUFFIX,cdn-Apple.com,🍎Apple
+DOMAIN-SUFFIX,Apple.com,🍎Apple
+DOMAIN-SUFFIX,Apple-cloudkit.com,🍎Apple
