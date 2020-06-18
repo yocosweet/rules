@@ -1,3 +1,7 @@
+# Custom
+DOMAIN-SUFFIX,rarbgprx.org
+DOMAIN-SUFFIX,t66y.com
+
 # 抗 DNS 污染
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,google
