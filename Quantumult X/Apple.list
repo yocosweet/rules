@@ -5,10 +5,10 @@ DOMAIN-SUFFIX,entrust.net,🍎Apple
 DOMAIN,ocsp.verisign.net,🍎Apple
 USER-AGENT,AppStore*,🍎Apple
 DOMAIN-SUFFIX,mzstatic.com,🍎Apple
-DOMAIN-SUFFIX,apps.🍎Apple.com,🍎Apple
-DOMAIN-SUFFIX,itunes.🍎Apple.com,🍎Apple
-DOMAIN-SUFFIX,blobstore.🍎Apple.com,🍎Apple
-DOMAIN-SUFFIX,music.🍎Apple.com,🍎Apple
+DOMAIN-SUFFIX,apps.Apple.com,🍎Apple
+DOMAIN-SUFFIX,itunes.Apple.com,🍎Apple
+DOMAIN-SUFFIX,blobstore.Apple.com,🍎Apple
+DOMAIN-SUFFIX,music.Apple.com,🍎Apple
 USER-AGENT,cloudd*,🍎Apple
 USER-AGENT,com.Apple.geod*,🍎Apple
 USER-AGENT,com.Apple.Maps,🍎Apple
