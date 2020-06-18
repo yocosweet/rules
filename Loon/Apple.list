@@ -1,0 +1,23 @@
+# 🍎Apple
+DOMAIN,ocsp.Apple.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,entrust.net
+DOMAIN,ocsp.verisign.net
+USER-AGENT,AppStore*
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,apps.Apple.com
+DOMAIN-SUFFIX,itunes.Apple.com
+DOMAIN-SUFFIX,blobstore.Apple.com
+DOMAIN-SUFFIX,music.Apple.com
+USER-AGENT,cloudd*
+USER-AGENT,com.Apple.geod*
+USER-AGENT,com.Apple.Maps
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,cdn-Apple.com
+DOMAIN-SUFFIX,Apple.com
+DOMAIN-SUFFIX,Apple-cloudkit.com
+
