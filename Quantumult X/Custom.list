@@ -1,4 +1,3 @@
 # Custom
-DOMAIN-SUFFIX,rarbgprx.org,Proxy
-DOMAIN-SUFFIX,t66y.com,Proxy
-#ip-cidr,192.168.5.0/24,163
+host-suffix, rarbgprx.org, Foreign
+
